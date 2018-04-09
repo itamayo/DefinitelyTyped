@@ -1,4 +1,3 @@
-/// <reference types="webvr-api" />
 
 import { Camera } from "./three-core";
 
