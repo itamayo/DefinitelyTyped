@@ -1,4 +1,4 @@
-/// <reference types="webvr-api" />
+/// <reference types="pcdLoader" />
 
 import { Camera } from "./three-core";
 
