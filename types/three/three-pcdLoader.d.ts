@@ -1,5 +1,3 @@
-/// <reference types="pcdLoader" />
-
 import { Camera } from "./three-core";
 
 export class PCDLoader {
